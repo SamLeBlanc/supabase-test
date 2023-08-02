@@ -117,4 +117,4 @@ module.exports=function(n){return new Promise(function(e,o){var r=document.creat
 },{}],0:[function(require,module,exports) {
 var b=require("ZOfP");b.register("js",require("eDUB"));b.load([["browser-ponyfill.79a645bd.js","vTPr"]]).then(function(){require("Focm");});
 },{}]},{},[0], null)
-//# sourceMappingURL=/supabase-test.34bd29f0.js.map
+//# sourceMappingURL=supabase-test.34bd29f0.js.map
